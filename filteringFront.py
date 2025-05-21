@@ -1,7 +1,7 @@
 import os
 
 # 대상 폴더 설정
-target_folder = "F:\datasets\images\train"  # ← 실제 경로로 변경 가능
+target_folder = "F:/datasets/images/train"  # ← 실제 경로로 변경 가능
 
 # 삭제할 확장자 기준 (필요시 수정)
 image_extensions = [".jpg", ".jpeg", ".png", ".bmp"]
